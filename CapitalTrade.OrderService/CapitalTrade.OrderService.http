@@ -1,0 +1,6 @@
+@CapitalTrade.OrderService_HostAddress = http://localhost:5152
+
+GET {{CapitalTrade.OrderService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

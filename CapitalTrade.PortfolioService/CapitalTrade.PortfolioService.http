@@ -1,0 +1,6 @@
+@CapitalTrade.PortfolioService_HostAddress = http://localhost:5114
+
+GET {{CapitalTrade.PortfolioService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

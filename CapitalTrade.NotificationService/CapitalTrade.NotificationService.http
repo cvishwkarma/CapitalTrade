@@ -1,0 +1,6 @@
+@CapitalTrade.NotificationService_HostAddress = http://localhost:5186
+
+GET {{CapitalTrade.NotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

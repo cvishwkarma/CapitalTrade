@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Publish output
+publish/
+wwwroot/dist/
+
+# Docker local files
+docker-compose.override.yml
+
+# Environment / secrets
+.env
+.env.*
+appsettings.Development.json
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/

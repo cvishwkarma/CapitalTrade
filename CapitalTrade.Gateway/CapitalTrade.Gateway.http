@@ -1,0 +1,6 @@
+@CapitalTrade.Gateway_HostAddress = http://localhost:5108
+
+GET {{CapitalTrade.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
